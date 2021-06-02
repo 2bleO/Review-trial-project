@@ -1,15 +1,18 @@
 #container {
   display: block;
   max-width: 720px;
-  margin: 3.125rem auto 0 auto
+  margin: 3.125rem auto 0 auto;
 }
+
 h1 {
   text-align: center;
 }
+
 p {
   text-align: center;
   font-weight: bold;
 }
+
 #survey-form {
   display: block;
   padding: 2.5rem;
@@ -17,15 +20,18 @@ p {
   background: rgb(29 29 53 / 80%);
   align-items: center;
 }
+
 div {
   display: block;
   box-sizing: border-box;
   margin: 0, auto;
   padding: 0.25rem;
 }
+
 label {
   display: flex;
 }
+
 input {
   display: block;
   width: 100%;
