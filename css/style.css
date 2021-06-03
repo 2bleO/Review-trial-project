@@ -1,32 +1,38 @@
 #container {
-    display: block;
-    max-width: 720px;
-    margin: 3.125rem auto 0 auto
+  display: block;
+  max-width: 720px;
+  margin: 3.125rem auto 0 auto;
 }
+
 h1 {
-    text-align: center;
+  text-align: center;
 }
+
 p {
-    text-align: center;
-    font-weight: bold;
+  text-align: center;
+  font-weight: bold;
 }
+
 #survey-form {
-    display: block;
-    padding: 2.5rem;
-    box-sizing: border-box;
-    background: rgb(29 29 53 / 80%);
-    align-items: center;
+  display: block;
+  padding: 2.5rem;
+  box-sizing: border-box;
+  background: rgb(29 29 53 / 80%);
+  align-items: center;
 }
+
 div {
-    display: block;
-    box-sizing: border-box;
-    margin: 0, auto;
-    padding: 0.25rem;
+  display: block;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0.25rem;
 }
+
 label {
-    display: flex;
+  display: flex;
 }
+
 input {
-    display: block;
-    width: 100%;
+  display: block;
+  width: 100%;
 }
